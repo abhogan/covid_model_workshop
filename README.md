@@ -18,7 +18,7 @@ Peter Winskill
 Oliver Watson  
 Giovanni Charles  
 Patrick Walker  
-Charlie Whittaker
+Charlie Whittaker  
 Rich FitzJohn  
 Azra Ghani  
 
