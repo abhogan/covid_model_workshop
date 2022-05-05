@@ -1,6 +1,6 @@
 ##########################################################################
 # Run some more nuanced simulations using a wrapper function for nimue::run, which allows us to set some more flexible options:
-# - income setting (or change demography/contact patterns/demography)
+# - income setting (or change demography/contact patterns/population size)
 # - transmission over time
 # - vaccine coverage
 # - vaccine dose strategy (age groups targeted and prioritisation)

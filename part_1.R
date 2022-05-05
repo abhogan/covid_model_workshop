@@ -20,7 +20,7 @@ library(furrr)
 # Run the model with an example population and no vaccination
 no_vaccine <- nimue::run(country = "United Kingdom",
                          max_vaccine = 0,
-                         R0 = 2.5)
+                         R0 = 2)
 
 # Format the output selecting infection and deaths
 out1 <-
@@ -42,7 +42,7 @@ ggplot(data = out1, aes(x = t, y = value, group = Name, col = Name)) +
 infection_blocking <- nimue::run(
   country = "United Kingdom",
   R0 = 2.5,
-  max_vaccine = 200000,
+  max_vaccine = 100000,
   vaccine_efficacy_disease = rep(0, 17),
   vaccine_efficacy_infection = rep(0.9, 17)
 )
