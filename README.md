@@ -13,4 +13,14 @@ https://github.com/mrc-ide/covid_vaccine_allocation
 Published paper relating to this code:
 https://pubmed.ncbi.nlm.nih.gov/33933313/
 
+**Acknowledgements:**  
+Peter Winskill  
+Oliver Watson  
+Giovanni Charles  
+Patrick Walker  
+Charlie Whittaker  
+Rich FitzJohn  
+Azra Ghani  
+
+Imperial College COVID-19 Response Team
 
